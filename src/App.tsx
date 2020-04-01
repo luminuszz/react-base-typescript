@@ -1,5 +1,8 @@
 import React from 'react';
 
-const App = () => <h1>tesssdte</h1>;
 
-export default App;
+export default function App() {
+  return (
+    <h1>teste</h1>
+  );
+}
